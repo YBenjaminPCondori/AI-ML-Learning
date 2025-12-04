@@ -26,22 +26,6 @@ Welcome to my portfolio of **Machine Learning (ML), Artificial Intelligence (AI)
 
 ## 🚀 Machine Learning Projects
 
-### 🏢 Multi-Sensor Occupancy Detection (Edge AI, TinyML)
-> Developed a real-time occupancy prediction system for office environments.
-
-- **Model**: Custom **Conv1D** CNN trained on environmental sensor data (Temp, Humidity, Gas, PM2.5)  
-- **Frameworks**: TensorFlow + Keras → Converted to **TensorFlow Lite**  
-- **Deployment**: Raspberry Pi 4B (on-device inference)  
-- **Features**:  
-  - Time-series sliding window input  
-  - Model evaluation via Accuracy, F1-Score, ROC-AUC  
-  - Sensor data collection and labeling via DHT11 and gas sensors  
-  - Designed with power-efficient edge deployment in mind  
-
-🛠 *Used Pandas, NumPy, Matplotlib, Thonny IDE, and TensorFlow Lite Converter*
-
----
-
 ### 🎥 Real-Time Motion Tracking with OpenCV
 > Vision-based red-object tracker using Raspberry Pi.
 
